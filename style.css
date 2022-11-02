@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.login{
+    width: 80%;
+    margin: 0 auto;
+}
+
+    body{
+        display: grid;
+        grid-template-columns: 80%;
+        align-content: center;
+        align-items: stretch;
+    }
